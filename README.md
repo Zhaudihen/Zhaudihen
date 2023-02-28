@@ -6,4 +6,4 @@ Currently part of Code Coven's IGM Thunder Cohort.
 
 You can play some of my released projects here: https://zhaudihen.itch.io/
 
-Soundcloud: https://soundcloud.com/zhaudi-428933814
+Soundcloud: https://soundcloud.com/zhaudihen
